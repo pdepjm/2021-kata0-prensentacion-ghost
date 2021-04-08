@@ -11,5 +11,6 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNH
 ## + Siempre mas ganas de dormir que de estudiar.
 ## + Soy alto pero siempre voy a querer medir un poco mas ;(
 ## + No se programar asi que Alf, con piedad pls.
+## + Mi usuario no es g host hubo un error en realidad era pipenani :/
 
 ![mi foto](fotitou.jpg)
