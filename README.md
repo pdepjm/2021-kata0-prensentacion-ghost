@@ -12,4 +12,4 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNH
 ## + Soy alto pero siempre voy a querer medir un poco mas ;(
 ## + No se programar asi que Alf, con piedad pls.
 
-![mi foto](fotarda.jpeg)
+![mi foto](fotitou.jpg)
