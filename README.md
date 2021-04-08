@@ -5,10 +5,10 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNH
 
 # Descripción
 
-## -> Me gusta jugar al basket, entreno 4 veces por semana pero Alberto me va a cerrar todo.
-## -> Si me dejas duermo 14hs, pero la baja la clase a la mañana.
-## -> Siempre mas ganas de dormir que de estudiar.
-## -> Soy alto pero siempre voy a querer medir un poco mas ;(
-## -> No se programar asi que Alf, con piedad pls.
+## + Me gusta jugar al basket, entreno 4 veces por semana pero Alberto me va a cerrar todo.
+## + Si me dejas duermo 14hs, pero la baja la clase a la mañana.
+## + Siempre mas ganas de dormir que de estudiar.
+## + Soy alto pero siempre voy a querer medir un poco mas ;(
+## + No se programar asi que Alf, con piedad pls.
 
 ![mi foto](fotarda.jpeg)
